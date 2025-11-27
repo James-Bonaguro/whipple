@@ -2,7 +2,7 @@ project whipple
 
 Here are the live tools:
 
-[Parenting Market Infographic](https://james-bonaguro.github.io/digital-peace/validate.index.html)
+[Parenting Market Infographic](https://james-bonaguro.github.io/digital-peace/validate.html)
 The deep research report validating the business idea.
 
 [Business Strategy Simulator](https://james-bonaguro.github.io/digital-peace/analyzer.html)
